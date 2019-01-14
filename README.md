@@ -1,2 +1,4 @@
 # shell_util
-Utility shell scripts
+* Utility shell scripts
+* C/C++ implementation of popular commands
+* Scheduling algorithms
